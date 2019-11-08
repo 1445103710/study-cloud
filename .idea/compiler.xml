@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="studythread" />
+        <module name="study-designpatterns" />
+        <module name="study-thread" />
         <module name="spring-boot-thread" />
       </profile>
     </annotationProcessing>

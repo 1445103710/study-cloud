@@ -8,5 +8,9 @@ package com.yao.thread;
  */
 public class TestDemo01 {
 
-
+    public static void main(String[] args) {
+        CreateThread createThread = new CreateThread();
+        createThread.start();
+        System.out.println("结束");
+    }
 }
